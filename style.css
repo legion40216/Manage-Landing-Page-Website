@@ -315,7 +315,8 @@ ul > li > a{
     top: var(--size-600);
     right:var(--size-400);
     width: 1.8rem;
-    
+   
+    z-index: 999;
     aspect-ratio: 1;
     background-image: url("images/icon-hamburger.svg");
     background-position: center;
