@@ -231,7 +231,7 @@ body{
 
  /* primary nav bar*/
  .primary-header{
-  padding-top: var(--size-600);
+  padding-top: var(--size-700);
 }
 
 .nav-list{
@@ -409,10 +409,10 @@ order: -1;
   column-gap:var(--size-400) ;
   position: relative;
 }
-
 .numbered-list li p{
   display: grid;
   grid-column: 1/-1;
+  opacity: 0.7;
 }
 
 .numbered-list li::before,
