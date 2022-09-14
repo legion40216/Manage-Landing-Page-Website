@@ -330,7 +330,8 @@ ul > li > a{
 }
 
 
-/* background blob images */
+/* background 
+images */
 
 
 
@@ -358,7 +359,7 @@ order: -1;
 @media (min-width:50em){
   .image-with-blob-bg::before{
     width: 50%;
-    max-height: 100vh;
+    max-height: 500px;
   }
 }
 
