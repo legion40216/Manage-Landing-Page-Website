@@ -231,7 +231,7 @@ body{
 
  /* primary nav bar*/
  .primary-header{
-  padding-top: var(--size-800);
+  padding-top: 3.5rem;
 }
 
 .nav-list{
